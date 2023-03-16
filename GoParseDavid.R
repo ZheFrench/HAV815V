@@ -9,7 +9,7 @@
 #' Parse David ouput and plot barplot with -log10 PValcorrected.
 #' 
 #' ## Usage
-#' **Rscript GoParseDavid.R --file=cool.txt**
+#' **Rscript GoParseDavid.R **
 #'
 #' ## Notes
 #' None.
